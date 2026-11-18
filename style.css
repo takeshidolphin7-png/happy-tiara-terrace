@@ -11,4 +11,4 @@
 .p4,.service-d{background-image:url('https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=85')}
 .hero h1{font-size:clamp(33px,3.25vw,49px)}
 @media(max-width:600px){.hero h1{font-size:32px}}
-.service-d{background-image:url('diving-konkatsu.png');}
+.service-d{background-image:url('diving-konkatsu.png')!important;}
