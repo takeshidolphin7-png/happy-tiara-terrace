@@ -5,7 +5,7 @@
 
 /* Original Happy Tiara-inspired: couples talking at a bar, not weddings or scenery */
 .hero-main{background-image:url('bar-couple.jpg');background-position:center center}
-.p1,.service-a,.m1{background-image:url('bar-couple.jpg')}
+.p1,.service-a,.m1,.m2,.m3{background-image:url('bar-couple.jpg');background-position:center;background-size:cover}
 .p2,.service-b,.m2{background-image:url('https://images.unsplash.com/photo-1529636798458-92182e662485?auto=format&fit=crop&w=900&q=85')}
 .p3,.service-c,.m3{background-image:url('https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=900&q=85')}
 .p4,.service-d{background-image:url('https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=85')}
