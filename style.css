@@ -4,7 +4,7 @@
 @media(max-width:600px){.container{width:calc(100% - 34px)}.nav{height:68px}.logo{font-size:25px}.nav nav a:not(.nav-cta){display:none}.nav-cta{padding:9px 13px}.hero-copy{padding:50px 0}.hero h1{font-size:34px}.hero-visual{min-height:340px}.hero-main{inset:0 0 22px 0}.hero-accent{font-size:16px;padding:12px 18px}.smile-strip{grid-template-columns:repeat(2,1fr);height:340px}.section{padding:65px 0}.services,.events-grid{grid-template-columns:1fr}.moments-grid{grid-template-columns:1fr 1fr;height:470px;grid-template-rows:230px 225px}.m1{grid-column:span 2}.event>img{height:365px}.event-info{padding:23px}.footer-inner{align-items:flex-start;flex-direction:column}.contact{padding-bottom:100px}.mobile-contact{display:block;position:fixed;bottom:12px;left:12px;right:12px;background:#06b45d;color:#fff;text-align:center;padding:13px;z-index:30;border-radius:5px;font-weight:700;box-shadow:0 5px 20px #0003}}
 
 /* Original Happy Tiara-inspired: couples talking at a bar, not weddings or scenery */
-.hero-main{background-image:url('assets/bar-couple.jpg');background-position:center center}
+.hero-main{background-image:url('bar-couple.jpg');background-position:center center}
 .p1,.service-a,.m1{background-image:url('assets/bar-couple.jpg')}
 .p2,.service-b,.m2{background-image:url('https://images.unsplash.com/photo-1529636798458-92182e662485?auto=format&fit=crop&w=900&q=85')}
 .p3,.service-c,.m3{background-image:url('https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=900&q=85')}
